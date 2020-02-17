@@ -45,7 +45,7 @@ Xecuter has a informational and educational [youtube channel](https://www.youtub
 To the IndieHacker community and the developer [AskMike](https://github.com/askmike) who developed Gekko which Xecuter was orginally based on.
 
 More information on Gekko can be found here: 
-[Article](https://medium.com/@gekkoplus/archiving-open-source-gekko-dba02e6efc7), [REPO](https://github.com/askmike/gekko)
+[Article](https://medium.com/@gekkoplus/archiving-open-source-gekko-dba02e6efc7), [Repository](https://github.com/askmike/gekko)
 
 ![Gordon Gekko](http://mikevanrossum.nl/static/gekko.jpg)
 
