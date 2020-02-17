@@ -40,6 +40,8 @@ For the latest news and annonucments, follow [@Xecuter_IO](https://twitter.com/X
 
 Xecuter has a informational and educational [youtube channel](https://www.youtube.com/channel/UCmvFJnLpX9MgiNfgGy3_iFQ/featured) which has turorials and cryptocurrency content.
 
+Email: xecuter_io@protonmail.com
+
 ## Special Thanks
 
 To the IndieHacker community and the developer [AskMike](https://github.com/askmike) who developed Gekko which Xecuter was orginally based on.
