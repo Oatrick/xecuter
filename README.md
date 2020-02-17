@@ -2,7 +2,7 @@
 
 Xecuter is a machine learning-enabled cryptocurrency trading and backtesting platform that connects to popular cryptocurrency exchanges. Xecuter is written in TypeScript, runs on [Node.js](http://nodejs.org), and utilizes [Tensoflow.js](https://www.tensorflow.org/js).
 
-[Xecuter.io](https://www.Xecuter.io) provides a sleek user interface, premium plugins, and other useful tools combined in to unified trading platform which can be leveraged to improve your trade executions, record keeping, and performance analytics. Xecuter.io supports most major cryptocurrency exchanges and provides intergation accross popular social media platforms including it's exclusive  members social media platform.
+[Xecuter.io](https://www.Xecuter.io) provides a sleek user interface, premium plugins, and other useful tools combined in to unified trading platform which can be leveraged to improve your trade executions, record keeping, and performance analytics. Xecuter.io supports most major cryptocurrency exchanges and provides intergation accross popular social media platforms including it's exclusive  members only social media platform.
 
 *Use Xecuter at your own risk.*
 
