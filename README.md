@@ -56,6 +56,7 @@ Step One: Delpoy a local Bitcoin testnet
 Step Two: Mine at least 101 blocks
 
 Step Three: Open the console and enter the command: `Xecuter -reset --selfplay=on`
+
 **Note:** This resets Xecuter in selfplay mode which spans an additional instance of the bot. This tests both the ML functions of Xecuter at the sametime as its ablity to connect to a functioning Bitcoin network, create wallets, receive, and send bitcoin transactions.
 
 Step Three: Follow the prompt's instructions to connect to the local Bitcoin testnet 
@@ -65,9 +66,11 @@ Step Five: When prompt with the twin's public keys send exactly 10 BTC into each
 Step Six: Mine atleast 11 more blocks
 
 Step Seven: Open the console and enter the command `Xecuter -train --dataset=default --max-ganuality=1h --log=all` 
+
 **Note:** The above command will have both Xecuters train in the same enviorment, which they are both changing, and they will only make decisions considering 1h timeframe or higher; setting to a lower timeframe setting will make the simulation take much longer and require much more stroage space to store the results. This test uses default dataset which is full price data from the BTCUSD on Bitstamp exchange from 2016 to 2018.
 
 Step Eight: Wait until training is complete... this may take up to two hours on slower computers
+
 **Note:** If it is taking longer force close the program, then wipe the chache and repeat Steps Three through Six; at Step Seven, instead of setting `--max-ganuality=1h` set it to `--max-ganuality=4h`. This should reduce the the wait time, but if it still takes too long then there is software or hardware issue not related to Xecuter.
 
 Step Nine: When prompted to compare results select `Default SelfPlay Baseline Resluts` then a new five paned window will open in an indepth analysis of each of the four bots, the two bots from your test and the two from the baseline, and the fifth pane is for of the results compairison. In the compairison pane, there is a diffrence figure in red and if it is under 2% then your test and installation was successful!😌
