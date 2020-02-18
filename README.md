@@ -33,8 +33,8 @@ Xecuter can be easily deloyed to any cloud computing service provider using the 
 
 The defualt profile has Hedera services disabled as they require a sperate tool, which we also provide, to intereact with the Hedera.
 
-**Adanced: <br>
-For more instructions on setting up and using our tool to interact with the Hedera go to the Xecuter.io's documentation section or to learn to build your own go to Hedera's document section. **
+**Adanced:** <br>
+**For more instructions on setting up and using our [HederaXecuter tool](https://github.com/Oatrick/HederaXecuter) to interact with the [Hedera](https://www.hedera.com/) please go to the [Xecuter.io](https://www.Xecuter.com)'s [Hedera Connecter installation section](https://docs.xecuter.io#installation#hedera_connector) or to learn to build your own go to [Hedera](https://www.hedera.com/)'s [documentation resource](https://docs.hedera.com/guides/docs/mirror-node-api/hedera-consensus-service-api-1).**
 `
 
 ## Community & Support
