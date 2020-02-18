@@ -2,7 +2,9 @@
 
 Xecuter is a machine learning-enabled cryptocurrency trading and backtesting platform that connects to popular cryptocurrency exchanges. Xecuter is written in TypeScript, runs on [Node.js](http://nodejs.org), and utilizes [Tensoflow.js](https://www.tensorflow.org/js).
 
-[Xecuter.io](https://www.Xecuter.io) provides a sleek user interface, premium plugins, and other useful tools combined in to unified trading platform which can be leveraged to improve your trade executions, record keeping, and performance analytics. [Xecuter.io](https://www.Xecuter.io) supports most major cryptocurrency exchanges and provides intergation accross popular social media platforms including it's exclusive  members only social media platform.
+[Xecuter.io](https://www.Xecuter.io) provides a sleek user interface, premium plugins, and other useful tools combined in to unified trading platform which can be leveraged to improve your trade executions, record keeping, and performance analytics. The Xecuter platform leverages the Hedera Network to provide auditable records in addition and verifiable execution of trades 
+
+[Xecuter.io](https://www.Xecuter.io) platform provides rich intergation with traditional social media and our exclusive members only social media platform. Only [Xecuter.io](https://www.Xecuter.io), members may choose to use to compete againest eachother in public or private trustless competitions basied on any trading meterics.
 
 *Use Xecuter at your own risk.*
 
@@ -25,21 +27,25 @@ Please refer to [documents section](https://docs.xecuter.io) on Xecuter's offica
 
 ## Installation & Usage
 
-Xecuter can be easily deloyed to any cloud computing service provider using the Terraform profile which can be found in this reposititory. Terraform Could could be used simply in a few clicks by forking this repository and your fork of this repository to Terraform Cloud. The defualt profile has all Hedera services disabled as they require a sperate tool, which we do provide, to intereact with the Hedera network.
+Please refer to [installation section](https://docs.xecuter.io#installation) on Xecuter's offical site [Xecuter.io](https://www.xecuter.io) for alternative installation solutions.
 
-***Adanced:***<br>
-**For more instructions on setting up and using our tool to interact with the Hedera go to the [Xecuter.io's](https://www.xecuter.io) [documentation section](http://docs.Xecuter.io) or to learn to build your own go to [Hedera's](https://www.hedera.com) [document section](https://docs.hedera.com/guides/).**
+Xecuter can be easily deloyed to any cloud computing service provider using the Terraform profile which can be found in this reposititory. Terraform Could could be used simply in a few clicks by forking this repository and your fork of this repository to Terraform Cloud.
+
+The defualt profile has Hedera services disabled as they require a sperate tool, which we also provide, to intereact with the Hedera.
+
+**Adanced: <br>
+For more instructions on setting up and using our tool to interact with the Hedera go to the Xecuter.io's documentation section or to learn to build your own go to Hedera's document section. **
 `
 
 ## Community & Support
-
-Xecuter has a [subreddit (r/Xecuter)](https://www.reddit.com/r/Xecuter/) and a [telegram channel](https://t.me/xecuteroffical) for discussions about Xecuter, automated trading strategies, machine learning in trading, technical analysis performance analysis, and exchanges. 
 
 For the latest news and annonucments, follow [@Xecuter_IO](https://twitter.com/Xecuter_IO) on twitter.
 
 Xecuter has a informational and educational [youtube channel](https://www.youtube.com/channel/UCmvFJnLpX9MgiNfgGy3_iFQ/featured) which has turorials and cryptocurrency content.
 
-Email: [xecuter_io@protonmail.com](mailto:xecuter_io@protonmail.com)
+Xecuter has a [subreddit (r/Xecuter)](https://www.reddit.com/r/Xecuter/) and a [telegram channel](https://t.me/xecuteroffical) for discussions about Xecuter, automated trading, machine learning in trading, technical analysis and exchanges. 
+
+Email: xecuter_io (AT) protonmail.com
 
 ## Special Thanks
 
